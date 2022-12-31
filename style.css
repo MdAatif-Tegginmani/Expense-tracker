@@ -2,7 +2,7 @@
 body{
     display: flex;
     justify-content: center;
-    background-image: url(./images.jpg);
+    background-color: gray;
     margin-top: 200px;
 
 
